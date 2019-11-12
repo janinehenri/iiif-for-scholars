@@ -1,0 +1,859 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/f22e9dae-c070-48eb-be0b-aa6c5bc195a6.json",
+	"@type": "sc:Manifest",
+	"label": "Bodleian Library MS. Ind. Inst. Misc. 21 [Arch. O. a. 7]",
+	"description": "[Kalighat pictures \"Indian gods\" album]",
+	"metadata": [
+		{
+			"label": "Homepage",
+			"value": "<span><a href=\"https://digital.bodleian.ox.ac.uk/inquire/p/f22e9dae-c070-48eb-be0b-aa6c5bc195a6\">View on Digital Bodleian</a></span>"
+		},
+		{
+			"label": "Title",
+			"value": "[Kalighat pictures \"Indian gods\" album]"
+		},
+		{
+			"label": "Date Statement",
+			"value": "1875"
+		},
+		{
+			"label": "Description",
+			"value": "Digitized Kalighat paintings from 19th century Calcutta, created as inexpensive souvenirs for Hindu pilgrims visiting the famous temple of Kali"
+		},
+		{
+			"label": "Description",
+			"value": "The paintings are bound in a single volume, which includes eight hand-coloured woodcut prints (ff. 29-36). They were acquired by Sir Monier Monier-Williams for the Indian Institute Library and Museum at Oxford as a result of his third fund-raising trip to India in the winter of 1883-1884. During this trip, he secured the help of various regional authorities in obtaining local art and craft work and sending them to Oxford. The Kalighat paintings and prints are listed in Babu T.N. Mukherji's \"List of Articles collected for the Oxford Institute under the instruction of T.W. Holderness Esq. and Dr. George Watt,\" Calcutta, 1884, which is bound in the \"Original Lists\" MS volume held in the Department of Eastern Art, Ashmolean Museum."
+		},
+		{
+			"label": "Extent",
+			"value": "445 x 280 mm"
+		},
+		{
+			"label": "Extent",
+			"value": "Waterbased colour on machine made paper over pencil, mounted on paper in a bound album"
+		},
+		{
+			"label": "Collection",
+			"value": "Manuscripts"
+		},
+		{
+			"label": "Collection",
+			"value": "Oriental Manuscripts"
+		},
+		{
+			"label": "Collection",
+			"value": "Burmese"
+		},
+		{
+			"label": "Subject",
+			"value": "Kalighat (Calcutta, India)-- Religious life and customs-- Pictorial works"
+		},
+		{
+			"label": "Other Identifier",
+			"value": "MS. Ind. Inst. Misc. 21 [Arch. O. a. 7]"
+		},
+		{
+			"label": "Record Created",
+			"value": "2015-07-10T00:00:00Z"
+		},
+		{
+			"label": "Holding Institution",
+			"value": "Bodleian Libraries, University of Oxford"
+		}
+	],
+	"navDate": "1875-01-01T00:00:00Z",
+	"rendering": {
+		"@id": "https://digital.bodleian.ox.ac.uk/inquire/p/f22e9dae-c070-48eb-be0b-aa6c5bc195a6",
+		"label": "View on Digital Bodleian",
+		"format": "text/html"
+	},
+	"attribution": "Access to this manuscript is restricted - please email us for details.",
+	"logo": {
+		"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/b83fe9b4-3ffb-4890-aa3f-7d551dfd8b38/full/256,/0/default.jpg",
+		"service": {
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"profile": "http://iiif.io/api/image/2/level1.json",
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/b83fe9b4-3ffb-4890-aa3f-7d551dfd8b38"
+		}
+	},
+	"thumbnail": {
+		"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/bf607192-eb1a-41e4-96be-18d547b269a1/full/256,/0/default.jpg",
+		"service": {
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"profile": "http://iiif.io/api/image/2/level1.json",
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/bf607192-eb1a-41e4-96be-18d547b269a1"
+		}
+	},
+	"viewingHint": "paged",
+	"sequences": [
+		{
+			"@id": "https://iiif.bodleian.ox.ac.uk/iiif/sequence/f22e9dae-c070-48eb-be0b-aa6c5bc195a6_default.json",
+			"@type": "sc:Sequence",
+			"label": "Default",
+			"canvases": [
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bf607192-eb1a-41e4-96be-18d547b269a1.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 1 Brahma enthroned]",
+					"width": 5256,
+					"height": 8406,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/bf607192-eb1a-41e4-96be-18d547b269a1.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bf607192-eb1a-41e4-96be-18d547b269a1.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/bf607192-eb1a-41e4-96be-18d547b269a1",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5256,
+								"height": 8406,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/bf607192-eb1a-41e4-96be-18d547b269a1"
+								}
+							}
+						}
+					],
+					"related": {
+						"@id": "",
+						"label": "",
+						"format": ""
+					}
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3722157d-158a-448f-aeb2-3aaac13ccc86.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 2 Sarasvati, goddess of language and literature and music]",
+					"width": 5448,
+					"height": 8394,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/3722157d-158a-448f-aeb2-3aaac13ccc86.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3722157d-158a-448f-aeb2-3aaac13ccc86.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/3722157d-158a-448f-aeb2-3aaac13ccc86",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5448,
+								"height": 8394,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/3722157d-158a-448f-aeb2-3aaac13ccc86"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c37b456d-d241-4ebd-818b-b5d1377170f3.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 3 Lakshmi, goddess of fortune and consort of Vishnu and Sarasvati, goddess of language literature and music]",
+					"width": 5448,
+					"height": 8394,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/c37b456d-d241-4ebd-818b-b5d1377170f3.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c37b456d-d241-4ebd-818b-b5d1377170f3.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/c37b456d-d241-4ebd-818b-b5d1377170f3",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5448,
+								"height": 8394,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/c37b456d-d241-4ebd-818b-b5d1377170f3"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e23d1c34-1610-4f5c-a8b5-d28c77bad7bc.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 4 Shiva Mahadava as a mendicant, receiving alms (from Annapurna?)]",
+					"width": 5358,
+					"height": 8350,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/e23d1c34-1610-4f5c-a8b5-d28c77bad7bc.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/e23d1c34-1610-4f5c-a8b5-d28c77bad7bc.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/e23d1c34-1610-4f5c-a8b5-d28c77bad7bc",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5358,
+								"height": 8350,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/e23d1c34-1610-4f5c-a8b5-d28c77bad7bc"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ffb9078e-90aa-40c3-bc64-70ba2c8e823d.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 5 Shiva Mahadeva and his consort Parvati enthroned, the bull Nandi below their takht]",
+					"width": 5454,
+					"height": 8340,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/ffb9078e-90aa-40c3-bc64-70ba2c8e823d.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/ffb9078e-90aa-40c3-bc64-70ba2c8e823d.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/ffb9078e-90aa-40c3-bc64-70ba2c8e823d",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5454,
+								"height": 8340,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/ffb9078e-90aa-40c3-bc64-70ba2c8e823d"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0f54fc48-66db-4ec9-a411-5751730f1109.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 6 Shiva Mahadeva and Parvati riding Nandi]",
+					"width": 5454,
+					"height": 8340,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/0f54fc48-66db-4ec9-a411-5751730f1109.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0f54fc48-66db-4ec9-a411-5751730f1109.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/0f54fc48-66db-4ec9-a411-5751730f1109",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5454,
+								"height": 8340,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/0f54fc48-66db-4ec9-a411-5751730f1109"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/638fbcfa-b2a6-484d-883f-d07c7ff9ae53.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 7 Shiva Mahayogin, the great yogin]",
+					"width": 5454,
+					"height": 8340,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/638fbcfa-b2a6-484d-883f-d07c7ff9ae53.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/638fbcfa-b2a6-484d-883f-d07c7ff9ae53.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/638fbcfa-b2a6-484d-883f-d07c7ff9ae53",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5454,
+								"height": 8340,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/638fbcfa-b2a6-484d-883f-d07c7ff9ae53"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/98af9a13-db0b-4609-ab86-3ce0ccb158ff.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 8 Parvati (ten-armed) nursing Ganesha, the god of wisdom and remover of obstacles, her son by Shiva]",
+					"width": 5454,
+					"height": 8340,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/98af9a13-db0b-4609-ab86-3ce0ccb158ff.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/98af9a13-db0b-4609-ab86-3ce0ccb158ff.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/98af9a13-db0b-4609-ab86-3ce0ccb158ff",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5454,
+								"height": 8340,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/98af9a13-db0b-4609-ab86-3ce0ccb158ff"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0f05feb2-7a72-4fb7-923c-0f7bcc991b92.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 9 Parvati (two-armed) nursing Ganesha, the god of wisdom and remover of obstacles, her son by Shiva]",
+					"width": 5454,
+					"height": 8340,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/0f05feb2-7a72-4fb7-923c-0f7bcc991b92.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0f05feb2-7a72-4fb7-923c-0f7bcc991b92.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/0f05feb2-7a72-4fb7-923c-0f7bcc991b92",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5454,
+								"height": 8340,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/0f05feb2-7a72-4fb7-923c-0f7bcc991b92"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bb95cdf6-b8e0-4635-a035-4008aedb9888.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 10 Ganesha, the god of wisdom and remover of obstacles, enthroned, with his rat below]",
+					"width": 5454,
+					"height": 8340,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/bb95cdf6-b8e0-4635-a035-4008aedb9888.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/bb95cdf6-b8e0-4635-a035-4008aedb9888.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/bb95cdf6-b8e0-4635-a035-4008aedb9888",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5454,
+								"height": 8340,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/bb95cdf6-b8e0-4635-a035-4008aedb9888"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dfc89f3d-64a2-4e22-9646-de1f3a5203aa.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 11 Karttikeya (Skanda), the god of war, riding the peacock Paravani]",
+					"width": 5454,
+					"height": 8340,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/dfc89f3d-64a2-4e22-9646-de1f3a5203aa.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dfc89f3d-64a2-4e22-9646-de1f3a5203aa.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/dfc89f3d-64a2-4e22-9646-de1f3a5203aa",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5454,
+								"height": 8340,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/dfc89f3d-64a2-4e22-9646-de1f3a5203aa"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/217018b7-8b0e-4be5-be88-402674ac538d.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 12 Durga, mounted on a lion, killing a leader of the demons (asuras)]",
+					"width": 5490,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/217018b7-8b0e-4be5-be88-402674ac538d.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/217018b7-8b0e-4be5-be88-402674ac538d.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/217018b7-8b0e-4be5-be88-402674ac538d",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5490,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/217018b7-8b0e-4be5-be88-402674ac538d"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5148cfdb-d81e-42ce-abbe-7df512ebf926.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 13 Krishna and his brother Balarama dancing in a grove of Brindaban]",
+					"width": 5490,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/5148cfdb-d81e-42ce-abbe-7df512ebf926.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/5148cfdb-d81e-42ce-abbe-7df512ebf926.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/5148cfdb-d81e-42ce-abbe-7df512ebf926",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5490,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/5148cfdb-d81e-42ce-abbe-7df512ebf926"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c3e6bae3-5a9c-4fe0-ac86-ad919b41e4fe.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 14 Krisha and his lover Radha dancing in grove of Brindaban]",
+					"width": 5490,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/c3e6bae3-5a9c-4fe0-ac86-ad919b41e4fe.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c3e6bae3-5a9c-4fe0-ac86-ad919b41e4fe.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/c3e6bae3-5a9c-4fe0-ac86-ad919b41e4fe",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5490,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/c3e6bae3-5a9c-4fe0-ac86-ad919b41e4fe"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/33c2a530-b0e3-4c50-b228-98881a05751f.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 15 Kali, a wrathful consort of Shiva; her image at Kalighat resembles that of the Puri Temple in Orissa]",
+					"width": 5490,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/33c2a530-b0e3-4c50-b228-98881a05751f.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/33c2a530-b0e3-4c50-b228-98881a05751f.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/33c2a530-b0e3-4c50-b228-98881a05751f",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5490,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/33c2a530-b0e3-4c50-b228-98881a05751f"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/64c8484b-c666-4645-95d3-c97f5d223ef2.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 16 Rama and Sita enthroned, with his brother Lakshmana and Hanuman the monkey king]",
+					"width": 5490,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/64c8484b-c666-4645-95d3-c97f5d223ef2.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/64c8484b-c666-4645-95d3-c97f5d223ef2.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/64c8484b-c666-4645-95d3-c97f5d223ef2",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5490,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/64c8484b-c666-4645-95d3-c97f5d223ef2"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a158e51e-09a1-4fdf-8c4a-4ba643b097bb.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 17 Ganga, goddess of the River Ganges, riding a makara (mythological water creature)]",
+					"width": 5490,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/a158e51e-09a1-4fdf-8c4a-4ba643b097bb.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/a158e51e-09a1-4fdf-8c4a-4ba643b097bb.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/a158e51e-09a1-4fdf-8c4a-4ba643b097bb",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5490,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/a158e51e-09a1-4fdf-8c4a-4ba643b097bb"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c7efa0da-cdb2-4b82-9fdd-f4036526c65b.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 18 Balarama, brother of Krishna, dancing]",
+					"width": 5490,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/c7efa0da-cdb2-4b82-9fdd-f4036526c65b.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c7efa0da-cdb2-4b82-9fdd-f4036526c65b.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/c7efa0da-cdb2-4b82-9fdd-f4036526c65b",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5490,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/c7efa0da-cdb2-4b82-9fdd-f4036526c65b"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f159a9c0-c7d5-4522-873c-46e78eb2be6c.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 19 Kali, a wrathful consort of Shiva; her image at Kalighat resembles that of the Puri Temple in Orissa]",
+					"width": 5490,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/f159a9c0-c7d5-4522-873c-46e78eb2be6c.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/f159a9c0-c7d5-4522-873c-46e78eb2be6c.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/f159a9c0-c7d5-4522-873c-46e78eb2be6c",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5490,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/f159a9c0-c7d5-4522-873c-46e78eb2be6c"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/097a0aae-d745-461d-b535-da076599a8dc.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 20 A courtesan or actress and her admirer: a satire on the Bengali expression 'a sheep husband']",
+					"width": 5490,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/097a0aae-d745-461d-b535-da076599a8dc.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/097a0aae-d745-461d-b535-da076599a8dc.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/097a0aae-d745-461d-b535-da076599a8dc",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5490,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/097a0aae-d745-461d-b535-da076599a8dc"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3553a246-b96c-484a-ba82-e808bc94fbae.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 21 The Narasimha (man-lion) avatar (incarnation) of Vishnu, saving the world from the demon Hiranyakashipu]",
+					"width": 5538,
+					"height": 8400,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/3553a246-b96c-484a-ba82-e808bc94fbae.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/3553a246-b96c-484a-ba82-e808bc94fbae.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/3553a246-b96c-484a-ba82-e808bc94fbae",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5538,
+								"height": 8400,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/3553a246-b96c-484a-ba82-e808bc94fbae"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dc6d1808-3879-439f-bc68-019e3d88c7f8.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 22 A peri, a fairy of Persian tradition]",
+					"width": 5622,
+					"height": 8484,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/dc6d1808-3879-439f-bc68-019e3d88c7f8.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dc6d1808-3879-439f-bc68-019e3d88c7f8.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/dc6d1808-3879-439f-bc68-019e3d88c7f8",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5622,
+								"height": 8484,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/dc6d1808-3879-439f-bc68-019e3d88c7f8"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/66f0b1e3-e913-460a-9042-283c28965c6f.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 23 Garuda (Vishnu's bird mount), with Krishna and his brother Balarama on his shoulders]",
+					"width": 5622,
+					"height": 8484,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/66f0b1e3-e913-460a-9042-283c28965c6f.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/66f0b1e3-e913-460a-9042-283c28965c6f.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/66f0b1e3-e913-460a-9042-283c28965c6f",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5622,
+								"height": 8484,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/66f0b1e3-e913-460a-9042-283c28965c6f"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/499d712f-4086-4398-b974-60c54ea040b3.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 24 Karttikeya (Skanda), the god of war, riding the peacock Paravani ]",
+					"width": 5622,
+					"height": 8484,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/499d712f-4086-4398-b974-60c54ea040b3.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/499d712f-4086-4398-b974-60c54ea040b3.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/499d712f-4086-4398-b974-60c54ea040b3",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5622,
+								"height": 8484,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/499d712f-4086-4398-b974-60c54ea040b3"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c2867c8e-be44-405c-b84a-9c862d1e07f1.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 25 Durga Simhavahini, crushing the demon Raktavija in the form of an elephant]",
+					"width": 5622,
+					"height": 8484,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/c2867c8e-be44-405c-b84a-9c862d1e07f1.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c2867c8e-be44-405c-b84a-9c862d1e07f1.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/c2867c8e-be44-405c-b84a-9c862d1e07f1",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5622,
+								"height": 8484,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/c2867c8e-be44-405c-b84a-9c862d1e07f1"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dedd1e75-77fa-46d4-9a47-4336e1bf49ad.json",
+					"@type": "sc:Canvas",
+					"label": "[f. 26 Hanuman, tells the demon Ravan that Rama and Sita are here, in his heart]",
+					"width": 5670,
+					"height": 8484,
+					"images": [
+						{
+							"@id": "https://iiif.bodleian.ox.ac.uk/iiif/annotation/dedd1e75-77fa-46d4-9a47-4336e1bf49ad.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"on": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dedd1e75-77fa-46d4-9a47-4336e1bf49ad.json",
+							"resource": {
+								"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/dedd1e75-77fa-46d4-9a47-4336e1bf49ad",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"width": 5670,
+								"height": 8484,
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"profile": "http://iiif.io/api/image/2/level1.json",
+									"@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/dedd1e75-77fa-46d4-9a47-4336e1bf49ad"
+								}
+							}
+						}
+					]
+				},
+				{
+					"@id": "http://2ee3dd19-a3d4-4ae0-b675-a8b210757b8d",
+					"@type": "sc:Canvas",
+					"label": "Van Gogh self-portrait",
+					"height": 2550,
+					"width": 2087,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://27ae1058-7e08-424c-8693-c78a44029a6a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.lib.harvard.edu/ids/iiif/47174896/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.lib.harvard.edu/ids/iiif/47174896",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"bitonal",
+												"gray",
+												"color"
+											],
+											"formats": [
+												"jpg",
+												"tif",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								},
+								"height": 2550,
+								"width": 2087
+							},
+							"on": "http://2ee3dd19-a3d4-4ae0-b675-a8b210757b8d"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	]
+}
